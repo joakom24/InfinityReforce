@@ -1,0 +1,9 @@
+.window-notice {
+    background: rgba(35, 126, 255, 0.85);
+    left: 40%;
+    bottom: 12%;
+    display: flex;
+    position: fixed;
+    z-index: 999;
+}
+
